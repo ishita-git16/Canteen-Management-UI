@@ -2,7 +2,7 @@
 
 
 ## Description
-1) A single page application which displays automated time-scheduled Lunch/ Evening Tea/ Dinner status for a canteen. 
+1) A time-scheduled single page application which displays  Lunch/ Evening Tea/ Dinner status for a canteen.
 2) The screen would play the company’s promotional video as a filler during idle time.  
 
 
